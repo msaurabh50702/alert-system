@@ -2,20 +2,6 @@ import requests
 import urllib3
 from bs4 import BeautifulSoup
 
-#from pyrogram import Client
-
-#app = Client(
-#    "",
-#    api_id = 1467416,
-#    api_hash = "20b0f554b333629c6eb3329e14c638bb",
-#)
-
-#1316538815:AAF66A1z-5ME9B6vfnEBpQGqDrBASfwnd3k
-#'https://api.telegram.org/bot1316538815:AAF66A1z-5ME9B6vfnEBpQGqDrBASfwnd3k/sendMessage?chat_id=633533166&parse_mode=Markdown&text=This is from Bot
-
-#with app:
-#    app.send_message("msaurabh","From Bot")
-
 
 fo = open('urls.txt','w+')
 
